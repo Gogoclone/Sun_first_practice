@@ -19,6 +19,8 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 
 断开代理后push成功！现连接代理push第一次测试！！
 
+连接代理push第一次测试成功！现进行连接代理pull第一次测试！！
+
 ### 需要转换的代码
 
 ```javascript
